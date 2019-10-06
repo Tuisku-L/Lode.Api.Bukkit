@@ -1,0 +1,14 @@
+/JsonApiForNukkitX.iml
+/JsonApiNukkit.iml
+/Lode.Api.iml
+.DS_Store
+/out/
+/nukkitX/
+/.idea/
+/.czrc
+/target/
+/.vscode/
+/.project
+.settings/
+/spigot/
+/bukkit/
